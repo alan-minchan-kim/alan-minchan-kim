@@ -5,7 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shovelingpig/)](https://www.linkedin.com/in/shovelingpig/)
 [![Github Followers](https://img.shields.io/github/followers/shoveling-pig?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/shoveling-pig?tab=followers)
 
-[![shoveling-pig's github stats](https://github-readme-stats.vercel.app/api?username=shoveling-pig&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=shoveling-pig)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoveling-pig&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=shoveling-pig&theme=calm)](https://github.com/shoveling-pig)
+
+[![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shoveling-pig&show_icons=true&theme=dracula)](https://github.com/shoveling-pig)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoveling-pig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shoveling-pig)
 
 ### 🌱 I’m currently learning ...
 - Computer Vision and Deep Learning
