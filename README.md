@@ -10,5 +10,5 @@
 - MLOps (TorchServe, Kubeflow, etc)
 
 ### 🔭 I’m currently working on ...
-- Implementing Graduation Requirement Management System for College Students (University Computer Club)
+- Implementing Graduation Requirement Management System for College Students
 - AI Research Scientist (Skilled Industrial Personnel)
