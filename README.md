@@ -11,10 +11,6 @@
 
 [![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shoveling-pig&show_icons=true&theme=dracula)](https://github.com/shoveling-pig)
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=shoveling-pig&theme=calm)](https://github.com/shoveling-pig)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoveling-pig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shoveling-pig)
-
 ### 🌱 I’m currently learning ...
 - Computer Vision and Deep Learning
 - Meta Learning and Transfer Learning for Few-shot Learning
@@ -24,3 +20,7 @@
 ### 🔭 I’m currently working on ...
 - AI Research Scientist (Skilled Industrial Personnel)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoveling-pig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shoveling-pig)
+
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=shoveling-pig&theme=calm)](https://github.com/shoveling-pig)
