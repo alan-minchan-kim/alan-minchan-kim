@@ -21,6 +21,6 @@
 - AI Research Scientist (Skilled Industrial Personnel)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoveling-pig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shoveling-pig)
+---
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=shoveling-pig&theme=calm)](https://github.com/shoveling-pig)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoveling-pig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shoveling-pig)
