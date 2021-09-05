@@ -7,7 +7,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shoveling-pig&theme=chalk&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shoveling-pig&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/shoveling-pig)
+[![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shoveling-pig&show_icons=true&theme=dracula)](https://github.com/shoveling-pig)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoveling-pig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shoveling-pig)
 
