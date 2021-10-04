@@ -18,5 +18,5 @@
 - Genetic Algorithm
 
 ### 🔭 I’m currently working on ...
-- AI Research Scientist (Skilled Industrial Personnel)
+- ML Research Scientist (Skilled Industrial Personnel)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
