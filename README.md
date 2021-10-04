@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shovelingpig/)](https://www.linkedin.com/in/shovelingpig/)
 [![Github Followers](https://img.shields.io/github/followers/shoveling-pig?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/shoveling-pig?tab=followers)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoveling-pig&theme=chalk&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoveling-pig&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shoveling-pig&show_icons=true&theme=dracula)](https://github.com/shoveling-pig)
 
