@@ -20,3 +20,4 @@
 ### 🔭 I’m currently working on ...
 - ML Research Scientist (Skilled Industrial Personnel)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
+- Studying Neural Image Reconsturction and Super Resolution (Side Project)
