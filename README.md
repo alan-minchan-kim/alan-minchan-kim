@@ -15,9 +15,8 @@
 - Computer Vision and Deep Learning
 - Meta Learning and Transfer Learning for Few-shot Learning
 - MLOps (TorchServe, Kubeflow, etc)
-- Genetic Algorithm
 
 ### 🔭 I’m currently working on ...
 - ML Research Scientist (Skilled Industrial Personnel)
+- Studying Neural Image Reconsturction and Spatio-Temporal Super Resolution (Side Project)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
-- Studying Neural Image Reconsturction and Super Resolution (Side Project)
