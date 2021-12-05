@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shovelingpig@gmail.com)](mailto:shovelingpig@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shovelingpig/)](https://www.linkedin.com/in/shovelingpig/)
 [![Github Followers](https://img.shields.io/github/followers/shovelingpig?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/shovelingpig?tab=followers)
-![solvedac](https://solvedac-readme-badge.herokuapp.com/api/v1/generate/api?user=shovelingpig&theme=onedark&compact=1)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shovelingpig&theme=chalk&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
