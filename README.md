@@ -21,3 +21,8 @@
 - Machine Learning Engineer (Alternative Militery Service)
 - Studying Neural Image Reconsturction and Spatio-Temporal Super-resolution (Side Project)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
+
+### 💗 I'm currently interested in ...
+- Machine Learning
+- Neuroscience
+- Virtual Reality
