@@ -18,6 +18,6 @@
 - MLOps (TorchServe, Kubeflow, etc)
 
 ### 🔭 I’m currently working on ...
-- ML Research Scientist (Skilled Industrial Personnel)
+- Machine Learning Engineer (Alternative Militery Service)
 - Studying Neural Image Reconsturction and Spatio-Temporal Super Resolution (Side Project)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
