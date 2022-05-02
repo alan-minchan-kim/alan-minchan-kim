@@ -15,7 +15,7 @@
 ### 🌱 I’m currently learning ...
 - Computer Vision and Deep Learning
 - Meta Learning and Transfer Learning for Few-shot Learning
-- MLOps (TorchServe, Kubeflow, etc)
+- MLOps (Kubeflow, TorchServe, etc)
 
 ### 🔭 I’m currently working on ...
 - Machine Learning Engineer (Alternative Militery Service)
