@@ -1,8 +1,6 @@
 ### Minchan Kim -- @shovelingpig
 > "Hello! I'm always looking for valuable knowledge like truffles."
 
-![shoveling](https://user-images.githubusercontent.com/55829146/144733128-7cef45dd-cf63-4873-9730-7829fcd8c35f.gif)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shovelingpig@gmail.com)](mailto:shovelingpig@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shovelingpig/)](https://www.linkedin.com/in/shovelingpig/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshoveling-pig&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
