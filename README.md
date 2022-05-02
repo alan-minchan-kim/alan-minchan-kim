@@ -19,5 +19,5 @@
 
 ### 🔭 I’m currently working on ...
 - Machine Learning Engineer (Alternative Militery Service)
-- Studying Neural Image Reconsturction and Spatio-Temporal Super Resolution (Side Project)
+- Studying Neural Image Reconsturction and Spatio-Temporal Super-resolution (Side Project)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
