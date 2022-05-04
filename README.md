@@ -18,7 +18,7 @@
 - MLOps (Kubeflow, TorchServe, etc)
 
 ### 🔭 I’m currently working on ...
-- Data Scientist (Alternative Militery Service)
+- ML Engineer (Alternative Militery Service)
 - Studying Neural Image Reconsturction and Spatio-Temporal Super-resolution (Side Project)
 - Implementing Graduation Requirement Management System for College Students (Side Project)
 
