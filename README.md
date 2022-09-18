@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovelingpig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shovelingpig)
 
 ### 🌱 I’m currently learning ...
-- Computer Vision and Deep Learning
+- Deep Learning (NLP, Computer Vision, RecSys)
 - Meta Learning and Transfer Learning for Few-shot Learning
 - MLOps (Kubeflow, TorchServe, etc)
 
