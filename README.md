@@ -14,7 +14,6 @@
 
 ### 🌱 I’m currently learning ...
 - Deep Learning (NLP, Computer Vision, RecSys)
-- Meta Learning and Transfer Learning for Few-shot Learning
 - MLOps (Kubeflow, TorchServe, etc)
 
 ### 🔭 I’m currently working on ...
