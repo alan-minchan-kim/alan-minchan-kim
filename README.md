@@ -10,16 +10,12 @@
 
 [![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shovelingpig&show_icons=true&theme=dracula)](https://github.com/shovelingpig)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovelingpig&layout=compact&langs_count=8&theme=dracula)](https://github.com/shovelingpig)
-
 ### 🌱 I’m currently learning ...
-- Deep Learning (NLP, Computer Vision, RecSys)
-- MLOps (Kubeflow, TorchServe, etc)
+- ML & DL (RecSys, NLP, Computer Vision)
+- MLOps
 
 ### 🔭 I’m currently working on ...
 - ML Engineer (Alternative Militery Service)
-- Studying Neural Image Reconsturction and Spatio-Temporal Super-resolution (Side Project)
-- Implementing Graduation Requirement Management System for College Students (Side Project)
 
 ### 💗 I'm currently interested in ...
 - Machine Learning
