@@ -10,14 +10,11 @@
 
 [![shovelingPig's github stats](https://github-readme-stats.vercel.app/api?username=shovelingpig&show_icons=true&theme=dracula)](https://github.com/shovelingpig)
 
-### 🌱 I’m currently learning ...
-- ML & DL (RecSys, NLP, Computer Vision)
-- MLOps
-
 ### 🔭 I’m currently working on ...
-- ML Engineer (Alternative Militery Service)
+- ML Engineer
+
+### 🌱 I’m currently learning ...
+- ML, MLOps
 
 ### 💗 I'm currently interested in ...
-- Machine Learning
-- Neuroscience
-- Virtual Reality
+- RecSys, Computer Vision, NLP
